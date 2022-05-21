@@ -1,0 +1,15 @@
+C:\Users\WINDOWS 10\Desktop\Projeto2GFT\bin\Debug\net6.0\Projeto2GFT.exe
+C:\Users\WINDOWS 10\Desktop\Projeto2GFT\bin\Debug\net6.0\Projeto2GFT.deps.json
+C:\Users\WINDOWS 10\Desktop\Projeto2GFT\bin\Debug\net6.0\Projeto2GFT.runtimeconfig.json
+C:\Users\WINDOWS 10\Desktop\Projeto2GFT\bin\Debug\net6.0\Projeto2GFT.dll
+C:\Users\WINDOWS 10\Desktop\Projeto2GFT\bin\Debug\net6.0\Projeto2GFT.pdb
+C:\Users\WINDOWS 10\Desktop\Projeto2GFT\obj\Debug\net6.0\Projeto2GFT.csproj.AssemblyReference.cache
+C:\Users\WINDOWS 10\Desktop\Projeto2GFT\obj\Debug\net6.0\Projeto2GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS 10\Desktop\Projeto2GFT\obj\Debug\net6.0\Projeto2GFT.AssemblyInfoInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projeto2GFT\obj\Debug\net6.0\Projeto2GFT.AssemblyInfo.cs
+C:\Users\WINDOWS 10\Desktop\Projeto2GFT\obj\Debug\net6.0\Projeto2GFT.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS 10\Desktop\Projeto2GFT\obj\Debug\net6.0\Projeto2GFT.dll
+C:\Users\WINDOWS 10\Desktop\Projeto2GFT\obj\Debug\net6.0\refint\Projeto2GFT.dll
+C:\Users\WINDOWS 10\Desktop\Projeto2GFT\obj\Debug\net6.0\Projeto2GFT.pdb
+C:\Users\WINDOWS 10\Desktop\Projeto2GFT\obj\Debug\net6.0\Projeto2GFT.genruntimeconfig.cache
+C:\Users\WINDOWS 10\Desktop\Projeto2GFT\obj\Debug\net6.0\ref\Projeto2GFT.dll
